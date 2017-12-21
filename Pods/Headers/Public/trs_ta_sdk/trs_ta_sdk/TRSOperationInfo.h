@@ -1,0 +1,1 @@
+../../../../trs_ta_sdk/trs_ta_sdk/trs_ta_sdk.framework/Headers/TRSOperationInfo.h
